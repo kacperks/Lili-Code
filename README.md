@@ -2,7 +2,11 @@
 Code editor for 
 -C#
 -Lua
--MiniScript
--JSON
+-JS
+-XML
+-VB
+-HTML
+-SQL
+-PHP
 
-currently only C# but we can make it better! :)
+currently program have so many bugs but we can make it better :)
