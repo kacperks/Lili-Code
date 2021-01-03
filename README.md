@@ -1,8 +1,8 @@
 # Lili-Code
 Code editor for 
--C# - (2 different themes)
+-C#
 -Lua
 -MiniScript
 -JSON
 
-currently not compiling but im going to add this
+currently only C# but we can make it better! :)
