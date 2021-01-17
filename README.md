@@ -11,3 +11,5 @@ Code editor for
 -PHP
 
 currently program have so many bugs but we can make it better :)
+
+Only For Windows :( sorry but windows forms cannot be compiled to linux
