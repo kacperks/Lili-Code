@@ -1,4 +1,5 @@
 # Lili-Code
+Notepad aplication and
 Code editor for 
 -C#
 -Lua
