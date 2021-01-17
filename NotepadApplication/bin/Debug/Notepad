@@ -1,0 +1,2 @@
+sima = 1
+print(sima)
